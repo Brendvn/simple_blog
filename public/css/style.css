@@ -1,0 +1,9 @@
+.row{
+    margin-top:15px;
+}
+.container{
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 25px;
+    margin-top:10px;
+}
